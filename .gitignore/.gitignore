@@ -1,0 +1,20 @@
+##########################
+# Unreal Generated Files #
+##########################
+
+*/Binaries
+*/Build
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+
+######################
+# VS Generated Files #
+######################
+
+*.db
+BuildingEscape/.vs/BuildingEscape/v15/ipch/AutoPCH/9248adf69d6a2dcf/BUILDINGESCAPE.ipch
+BuildingEscape/.vs/BuildingEscape/v15/Browse.VC.opendb
+BuildingEscape/.vs/
+BuildingEscape/BuildingEscape.VC.VC.opendb
